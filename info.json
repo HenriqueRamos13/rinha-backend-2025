@@ -8,7 +8,7 @@
     "Node.js"
   ],
   "storages": [
-    "dragonfly"
+    "redis"
   ],
   "load-balancers": [
     "nginx"
