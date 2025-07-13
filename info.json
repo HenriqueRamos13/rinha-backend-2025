@@ -1,0 +1,16 @@
+{
+  "name": "Henrique Ramos",
+  "social": [
+    "https://www.linkedin.com/in/henrique-ramos-13"
+  ],
+  "source-code-repo": "https://github.com/henriqueramos13/rinha-backend-2025",
+  "langs": [
+    "Node.js"
+  ],
+  "storages": [
+    "dragonfly"
+  ],
+  "load-balancers": [
+    "nginx"
+  ]
+}
